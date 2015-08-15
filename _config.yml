@@ -13,7 +13,6 @@ github_username:  dustinpeerce
 # Build settings
 markdown: kramdown
 encoding: utf-8
-permalink: pretty
 
 # Custom Variables
 custom_variable: dogs
