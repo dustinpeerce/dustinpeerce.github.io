@@ -14,7 +14,6 @@ github_username:  dustinpeerce
 markdown: kramdown
 encoding: utf-8
 permalink: pretty
-highlighter: rouge
 
 # Custom Variables
 custom_variable: dogs
