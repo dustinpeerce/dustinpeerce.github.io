@@ -19,7 +19,9 @@ title: Dustin's Personal Blog
     {% endfor %}
   </ul>
 
-  <p> Check out my <a href="/about.html"> About Page </a> </p>
+  <p> Check out my <a href="/about"> About Page </a> </p>
+  <p> The current time is {{site.time}} </p>
+  <p> My favorite animals are {{site.custom_variable}} </p>
   <img src="/images/logo.png">
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
