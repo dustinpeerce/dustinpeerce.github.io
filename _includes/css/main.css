@@ -25,6 +25,14 @@ a.active {
     color: #{{ site.color.primary }};
 }
 
+#about a,
+#about a:hover,
+#about a:focus,
+#about a:active,
+#about a.active {
+    color: #{{ site.color.secondary }};
+}
+
 h1,
 h2,
 h3,
