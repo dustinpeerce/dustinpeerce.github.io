@@ -3,7 +3,7 @@ title: Dustin Peerce
 email: dustin.peerce@awesomeinc.org
 url: http://dustinpeerce.github.io/
 description: "Portfolio site for my game development projects"
-skills: "Game Developer - Software Developer - Web Developer"
+skills: "Game Designer/Programmer - Software Developer - Writer & Narrative Designer"
 meta_author: Peerce Dustin
 
 # Google webmaster tools
@@ -31,7 +31,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Dustin Peerce
   location: Location
   social: Social
   credits: Credits
@@ -39,19 +39,19 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://twitter.com/DustinPeerce
   - title: facebook
-    url:
+    url: https://www.facebook.com/dustin.peerce
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: 
   - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: 
   - title: github
-    url: http://github.com/jekyll
+    url: 
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Somewhere
+  - line: 
   - line: Lexington, KY
 
 # Credits content
