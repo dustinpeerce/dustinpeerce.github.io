@@ -3,7 +3,7 @@ title: Dustin Peerce
 email: dustin.peerce@awesomeinc.org
 url: http://dustinpeerce.github.io/
 description: "Portfolio site for my game development projects"
-skills: "Game Designer/Programmer - Software Developer - Writer & Narrative Designer"
+skills: "Game Designer - Software Developer - Narrative Designer"
 meta_author: Peerce Dustin
 
 # Google webmaster tools
@@ -42,12 +42,10 @@ social:
     url: https://twitter.com/DustinPeerce
   - title: facebook
     url: https://www.facebook.com/dustin.peerce
-  - title: stack-overflow
-    url: 
-  - title: bitbucket
+  - title: linkedin
     url: 
   - title: github
-    url: 
+    url: https://github.com/dustinpeerce
 
 # Postal address (add as many lines as necessary)
 address:
