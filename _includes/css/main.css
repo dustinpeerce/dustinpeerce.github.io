@@ -281,7 +281,7 @@ section.success {
     position: relative;
     margin-bottom: 0;
     padding-bottom: .5em;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid #ddd;
 }
 
 .floating-label-form-group input,
@@ -330,7 +330,7 @@ section.success {
 }
 
 form .row:first-child .floating-label-form-group {
-    border-top: 1px solid #eee;
+    border-top: 1px solid #ddd;
 }
 
 footer {
@@ -461,4 +461,24 @@ footer .footer-below {
 .modal.fade.in {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
+}
+
+
+/*
+CUSTOM STYLING
+---------------------------------------------------- */
+#contactForm {
+    background-color: #fafafa;
+    box-shadow: 0 0 15px 10px #555;
+}
+.row {
+    margin-right: 0;
+    margin-left: 0;
+}
+dd {
+    border-left: solid 2px #{{ site.color.secondary }};
+    margin-bottom: 30px;
+}
+ul.inline {
+    list-style: none;
 }
