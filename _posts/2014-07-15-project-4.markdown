@@ -1,13 +1,13 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 4
 date: 2016-02-21
 title: Harvest Fall
 img: awesome-inc-thumb-2.gif
 alt: image-alt
 project-date: July 2015
 download: <a href="http://devpost.com/software/harvest-fall" target="_blank">Devpost Submission</a>
-source: <a href="Not Available" target="_blank">GitHub Repository</a>
+source: Not Available
 description: 
 inspiration: 
 ---
