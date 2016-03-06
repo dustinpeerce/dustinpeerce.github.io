@@ -3,7 +3,7 @@ layout: default
 modal-id: 2
 date: 2016-02-21
 title: Awesome Inc Game
-img: awesome-inc-thumb-2.gif
+img: awesome-inc-thumb.gif
 alt: image-alt
 project-date: July 2015
 download: <a href="https://www.dropbox.com/sh/tst99wgg5dh7smg/AAAGWKcpKXAVdbwen0SF2znha?dl=0" target="_blank">Dropbox Build</a>

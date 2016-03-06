@@ -32,6 +32,9 @@ a.active {
 #about a.active {
     color: #{{ site.color.secondary }};
 }
+#about p {
+    margin-bottom: 40px;
+}
 
 h1,
 h2,
@@ -402,6 +405,10 @@ footer .footer-below {
     background-clip: border-box;
     -webkit-box-shadow: none;
     box-shadow: none;
+}
+
+.modal-body p {
+    margin-bottom: 40px;
 }
 
 .portfolio-modal .modal-content h2 {
