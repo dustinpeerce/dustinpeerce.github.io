@@ -3,7 +3,7 @@ layout: default
 modal-id: 3
 date: 2016-02-21
 title: Spirit Fire
-img: awesome-inc-thumb.gif
+img: spirit-fire-thumb.jpg
 alt: image-alt
 project-date: January 2016
 download: <a href="http://globalgamejam.org/2016/games/spirit-fire" target="_blank">GGJ Submission</a>
