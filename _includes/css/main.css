@@ -332,6 +332,13 @@ section.success {
     color: #{{ site.color.primary }};
 }
 
+form #btnsubmit {
+    margin: 0 auto;
+    display: block;
+    width: 150px;
+    max-width: 100%;
+}
+
 form .row:first-child .floating-label-form-group {
     border-top: 1px solid #ddd;
 }

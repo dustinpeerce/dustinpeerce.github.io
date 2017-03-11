@@ -1,13 +1,15 @@
+
 # Site settings
 title: Dustin Peerce
 email: dustin.peerce@awesomeinc.org
 url: http://dustinpeerce.github.io/
-description: "Portfolio site for my game development projects"
+description: "Portfolio site for my games"
 skills: "Game Designer & Software Developer"
 meta_author: Peerce Dustin
+logo: img/profile_256x256.png
 
 # Google webmaster tools
-google_verify:
+google_verify: QXoAPsij7bY3xsp020mlELPt42ylMlmvpZ1ilPUW8Ic
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
