@@ -1,20 +1,7 @@
-/*!
- * Start Bootstrap - Freelancer Bootstrap Theme (http://startbootstrap.com)
- * Code licensed under the Apache License v2.0.
- * For details, see http://www.apache.org/licenses/LICENSE-2.0.
- */
 
-body {
-    overflow-x: hidden;
-}
-
-p {
-    font-size: 20px;
-}
-
-p.small {
-    font-size: 16px;
-}
+body { overflow-x: hidden; }
+p { font-size: 20px; }
+p.small { font-size: 16px; }
 
 a,
 a:hover,
@@ -136,7 +123,7 @@ header .intro-text .skills {
 
 @media(min-width:768px) {
     .navbar-fixed-top {
-        padding: 25px 0;
+        padding: 20px 0;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
@@ -150,7 +137,7 @@ header .intro-text .skills {
     }
 
     .navbar-fixed-top.navbar-shrink {
-        padding: 10px 0;
+        padding: 0;
     }
 
     .navbar-fixed-top.navbar-shrink .navbar-brand {
@@ -361,7 +348,7 @@ footer .footer-col {
 }
 
 footer .footer-below {
-    padding: 25px 0;
+    padding: 15px 0;
     background-color: #{{ site.color.secondary-dark }};
 }
 
@@ -374,6 +361,8 @@ footer .footer-below {
     text-align: center;
     font-size: 20px;
     line-height: 45px;
+    margin-top: 0;
+    margin-bottom: 15px;
 }
 
 .btn:focus,
@@ -483,7 +472,7 @@ CUSTOM STYLING
 ---------------------------------------------------- */
 #contactForm {
     background-color: #fafafa;
-    box-shadow: 0 0 15px 10px #555;
+    box-shadow: 0 0 10px 3px #555;
 }
 .row {
     margin-right: 0;
