@@ -8,6 +8,6 @@ alt: image-alt
 project-date: Work-In-Progress
 download: TBA
 source: Not Available
-description: Similar to an Endless Runner, the player character in Falling Bird is moving infinitely through a series of obstacles. The player tilts their device to move the character horizontally. Every obstacle has a door that allows passage, but the doors can only be opened with specific touch-input. Once a door has been opened, you can collect a gem that appears in the doorway. The gems will start to grow as soon as you open the door, and bigger gems are worth more points.
-inspiration: Project Falling Bird is meant for gamers like me who crave difficult challenges. It's very easy to learn, but very difficult to master. The game rewards the player with leaderboards, achievements, and an in-game shop that lets them purchase new characters. Project Falling Bird uses a free-to-play model, and is designed to keep the player interested with frequent rewards.
+description: Similar to an Endless Runner, the player in Chow Down is moving infinitely through a series of obstacles. The player tilts their mobile device to move the character from side to side. Every obstacle has a door that allows passage, but the doors can only be opened with specific touch-input. Once a door has been opened, you can collect points that appear in the doorway.
+inspiration: Chow Down will be free to play, and offers a very challenging experience.
 ---
