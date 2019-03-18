@@ -8,6 +8,6 @@ alt: image-alt
 project-date: Work-In-Progress
 download: TBA
 source: Not Available
-description: A card game of territorial acquisition. Attack enemy monsters to gain control of them, but carefully choose your attacks so your own monsters won't be left vulnerable.
-inspiration: While heavily inspired by Tetra Master, Lodge of Dissent pulls from other popular card games like Hearthstone to create a unique blend. Combat is designed to be intuitive and approachable. The goal is to maintain complexity while making the game less obtuse.
+description: A deck-building game of territorial acquisition. Charm enemy monsters to recruit them, and if you have more monsters than your opponent by the time the board is full, you win!
+inspiration: This project has been very rewarding for me, as it is my first multiplayer game. It's also been a great way to learn more about AI, in order to build distinct computer opponents. I'm very excited to finish this game and share it with the world.
 ---
